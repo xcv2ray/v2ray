@@ -1,5 +1,5 @@
 config
-
+c
 trojan://70c5a686-337d-49e4-a691-8a6c40e01b28@mci.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=newmcu.learnrussiabefarsi.cf#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
 
 trojan://a040454b-aca7-4195-80c7-00a55a481e18@mtn.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=newirc.learnrussiabefarsi.cf#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+1
