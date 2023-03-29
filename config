@@ -1,33 +1,13 @@
-trojan://a040454b-aca7-4195-80c7-00a55a481e18@45.85.119.120:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=newirc.learnrussiabefarsi.cf#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+1
+trojan://3cb03937-adc2-4f32-98dc-7935a983cac3@45.85.119.120:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=cca1.learnrussiabefarsi.cf#irancell+1
 
-trojan://fe75ae52-75d1-4f9c-a510-59359827bb2c@mtn.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=irnacellve.learnrussiabefarsi.cf#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+2
+trojan://30e3e063-c0e7-4a23-83bb-aa568c0f6f82@mtn.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=cca.learnrussiabefarsi.cf#irancell+2
 
-trojan://70c5a686-337d-49e4-a691-8a6c40e01b28@108.165.216.227:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=newmcu.learnrussiabefarsi.cf#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
+trojan://30e3e063-c0e7-4a23-83bb-aa568c0f6f82@108.165.216.227:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=zsa.learnrussiabefarsi.cf#hamrah+aval+1
 
-trojan://194f6550-1882-4a99-9e9e-b53a3e713411@188.42.88.252:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=shat.learnrussiabefarsi.cf#%D8%B4%D8%A7%D8%AA%D9%84
+trojan://e558d621-a000-403a-9204-b2b07f8b7ba8@sht.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=fdt.learnrussiabefarsi.cf#Shatel
 
-trojan://97b0f216-9bd7-4258-81f9-f58727a4021b@104.18.1.89:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=fdax.learnrussiabefarsi.cf#%D8%A2%D8%B3%DB%8C%D8%A7%D8%AA%DA%A9
+trojan://7da05d2a-b311-49bb-931e-547e362ab3ba@104.18.1.89:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=fdq.learnrussiabefarsi.cf#Asia+tech
 
-trojan://75877ca5-4f3b-4996-bfe9-bebc06245b8f@mkh.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=mokha.learnrussiabefarsi.cf#%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
+trojan://ea4b5a1e-2f21-4ed7-bb20-5541ff5308a5@172.67.191.189:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=yto.learnrussiabefarsi.cf#Mokhaberat
 
-vmess://eyJhZGQiOiIxMDguMTY1LjIxNi4yMjciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoibGVhcm4ubGVhcm5ydXNzaWFiZWZhcnNpLmNmIiwiaWQiOiJEREIwNUY3QS1BNEEzLTRGMzQtQjczMC1GQ0M3QUNCM0IxN0YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0L1NlYXR0bGUua290aWNrLnNpdGUiLCJwb3J0IjoiNDQzIiwicHMiOiJtY2kiLCJzY3kiOiJhdXRvIiwic25pIjoibGVhcm4ubGVhcm5ydXNzaWFiZWZhcnNpLmNmIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vless://35896f9a-e375-4e71-bdcf-b9f180e0edf4@45.85.119.44:443?path=%2Fvless&security=tls&encryption=none&alpn=h2,http/1.1&host=ygd.learnrussiabefarsi.ga&fp=firefox&type=ws&sni=ygd.learnrussiabefarsi.ga#irancell+1
-
-vmess://eyJhZGQiOiI0NS44NS4xMTkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJhbmRyb2lkIiwiaG9zdCI6ImxlYXJuLmxlYXJucnVzc2lhYmVmYXJzaS5jZiIsImlkIjoiRERCMDVGN0EtQTRBMy00RjM0LUI3MzAtRkNDN0FDQjNCMTdGIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdC9LYW5zYXMua290aWNrLnNpdGUiLCJwb3J0IjoiNDQzIiwicHMiOiJpcmFuY2VsbCAyIiwic2N5IjoiYXV0byIsInNuaSI6ImxlYXJuLmxlYXJucnVzc2lhYmVmYXJzaS5jZiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiIxODguNDIuODguMjUyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiMzYwIiwiaG9zdCI6ImxlYXJuLmxlYXJucnVzc2lhYmVmYXJzaS5jZiIsImlkIjoiRERCMDVGN0EtQTRBMy00RjM0LUI3MzAtRkNDN0FDQjNCMTdGIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdC9MaWxsZS5rb3RpY2suc2l0ZSIsInBvcnQiOiI0NDMiLCJwcyI6InNoYXRlbCIsInNjeSI6ImF1dG8iLCJzbmkiOiJsZWFybi5sZWFybnJ1c3NpYWJlZmFyc2kuY2YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMDQuMTguMS44OSIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0IjoibGVhcm4ubGVhcm5ydXNzaWFiZWZhcnNpLmNmIiwiaWQiOiJEREIwNUY3QS1BNEEzLTRGMzQtQjczMC1GQ0M3QUNCM0IxN0YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0L1Rva3lvLmtvdGljay5zaXRlIiwicG9ydCI6IjQ0MyIsInBzIjoiYXNpYXRlY2giLCJzY3kiOiJhdXRvIiwic25pIjoibGVhcm4ubGVhcm5ydXNzaWFiZWZhcnNpLmNmIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxODguNDIuODguMjUyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoicXEiLCJob3N0IjoibGVhcm4ubGVhcm5ydXNzaWFiZWZhcnNpLmNmIiwiaWQiOiJEREIwNUY3QS1BNEEzLTRGMzQtQjczMC1GQ0M3QUNCM0IxN0YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0L0Ftc3RlcmRhbS5rb3RpY2suc2l0ZSIsInBvcnQiOiI0NDMiLCJwcyI6Im1va2hhYmVyYXQiLCJzY3kiOiJhdXRvIiwic25pIjoibGVhcm4ubGVhcm5ydXNzaWFiZWZhcnNpLmNmIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxODguNDIuODguMjUyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiaW9zIiwiaG9zdCI6ImxlYXJuLmxlYXJucnVzc2lhYmVmYXJzaS5jZiIsImlkIjoiRERCMDVGN0EtQTRBMy00RjM0LUI3MzAtRkNDN0FDQjNCMTdGIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NwZWVkdGVzdC9EdXNzZWxkb3JmLmtvdGljay5zaXRlIiwicG9ydCI6IjQ0MyIsInBzIjoid2lmaSIsInNjeSI6ImF1dG8iLCJzbmkiOiJsZWFybi5sZWFybnJ1c3NpYWJlZmFyc2kuY2YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-trojan://0101eb64-51e7-4268-b086-a3b18fa627f4@104.18.79.232:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=xcf.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=xcf.learnrussiabefarsi.cf#free+wifi
-
-trojan://8e0f86fd-602e-4f82-a3a8-7bfa5bbdff5b@104.18.79.232:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=free2.learnrussiabefarsi.cf&fp=firefox&type=ws&sni=free2.learnrussiabefarsi.cf#free+wifi+2
-
-trojan://32b8f38a-39c4-4eee-828b-4c4f752d0029@104.18.79.232:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=free3.learnrussiabefarsi.cf&fp=safari&type=ws&sni=free3.learnrussiabefarsi.cf#free+wifi+3
-
-
+trojan://09dee76f-6521-474e-a515-bf34a65efb30@188.42.88.252:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=yt.learnrussiabefarsi.cf#%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
