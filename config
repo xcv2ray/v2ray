@@ -4,9 +4,9 @@ trojan://4c31a9e3-4868-4d7a-b35b-7a8fe2f825ee@104.18.1.89:443?path=%2Fwebsocket&
 
 trojan://379e7ea6-7c66-43e4-9fc1-5b7492f7266d@ast.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=asia.learnenglish11germany.xyz&fp=firefox&type=ws&sni=asia.learnenglish11germany.xyz#Asia+tech+April+7
 
-trojan://a48cda80-a494-4719-96aa-3226f8169666@108.165.216.227:443?path=%2Fwebsocket&security=tls&alpn=http/1.1&host=mci.learnenglish11germany.xyz&type=ws&sni=mci.learnenglish11germany.xyz#mci+April+7
+trojan://a48cda80-a494-4719-96aa-3226f8169666@45.95.241.113:443?path=%2Fwebsocket&security=tls&alpn=http/1.1&host=mci.learnenglish11germany.xyz&type=ws&sni=mci.learnenglish11germany.xyz#mci+April+7
 
-trojan://5059a5eb-1e9f-41d0-8d8b-3d95c5935685@108.165.216.227:443?mode=gun&security=tls&alpn=h2,http/1.1&type=grpc&serviceName=grpc&sni=mci2.learnenglish11germany.xyz#mci+April+7
+trojan://5059a5eb-1e9f-41d0-8d8b-3d95c5935685@45.95.241.113:443?mode=gun&security=tls&alpn=h2,http/1.1&type=grpc&serviceName=grpc&sni=mci2.learnenglish11germany.xyz#mci+April+7
 
 trojan://3cb03937-adc2-4f32-98dc-7935a983cac3@45.85.119.120:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=cca1.learnrussiabefarsi.cf#irancell+April+5
 
