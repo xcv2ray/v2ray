@@ -1,15 +1,17 @@
-trojan://4c31a9e3-4868-4d7a-b35b-7a8fe2f825ee@mkh.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.learnenglish11germany.xyz&fp=firefox&type=ws&sni=mkh.learnenglish11germany.xyz#%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1+7+%D8%A2%D9%BE%D8%B1%DB%8C%D9%84
+trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mtn.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mtn1.oppc.ir&fp=firefox&type=ws&sni=mtn1.oppc.ir#IRC+1
 
-trojan://4c31a9e3-4868-4d7a-b35b-7a8fe2f825ee@104.18.1.89:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=sht.learnenglish11germany.xyz&fp=chrome&type=ws&sni=sht.learnenglish11germany.xyz#shatel+April+7
+trojan://f214035c-c572-4ab9-ac5e-1c4a6ecacc3e@45.85.119.26:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=mtn2.oppc.ir#IRC+2
 
-trojan://379e7ea6-7c66-43e4-9fc1-5b7492f7266d@ast.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=asia.learnenglish11germany.xyz&fp=firefox&type=ws&sni=asia.learnenglish11germany.xyz#Asia+tech+April+7
+trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mci.ircf.space:443?path=%2Fwebsocket&security=tls&host=mci1.oppc.ir&type=ws&sni=mci1.oppc.ir#MCI+1
 
-trojan://a48cda80-a494-4719-96aa-3226f8169666@45.95.241.113:443?path=%2Fwebsocket&security=tls&alpn=http/1.1&host=mci.learnenglish11germany.xyz&type=ws&sni=mci.learnenglish11germany.xyz#mci+April+7
+trojan://91c068d1-bce9-4bc1-a4ac-7f2954d97471@45.95.241.113:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=mci2.oppc.ir#MCI+2
 
-trojan://5059a5eb-1e9f-41d0-8d8b-3d95c5935685@45.95.241.113:443?mode=gun&security=tls&alpn=h2,http/1.1&type=grpc&serviceName=grpc&sni=mci2.learnenglish11germany.xyz#mci+April+7
+trojan://da10afac-2557-47fe-870b-43ab8360b011@ast.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ast.oppc.ir&fp=chrome&type=ws&sni=ast.oppc.ir#Asia+tech
 
-trojan://3cb03937-adc2-4f32-98dc-7935a983cac3@45.85.119.120:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=cca1.learnrussiabefarsi.cf#irancell+April+5
+trojan://da10afac-2557-47fe-870b-43ab8360b011@mkh.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.oppc.ir&fp=firefox&type=ws&sni=mkh.oppc.ir#Mokhaberat
 
-trojan://21d365fb-cbc0-4526-8cc5-abb50f6389aa@mtn.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=irc.learnenglish11germany.xyz#irancell+April+7
+trojan://c37d837d-b8fa-4cd2-a94a-c35b6ba1bee5@45.95.241.113:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ger1.oppc.ir&fp=firefox&type=ws&sni=ger1.oppc.ir#Germany+1
 
-trojan://e5906cfb-9b82-47f5-8cd3-ade91153ac4c@104.18.1.89:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=ffff.learnenglish11germany.xyz#America+free
+trojan://a9963fdd-9d19-4f4c-a6bb-d960cc7d0c4a@104.27.21.6:443?path=%2Fwebsocket&security=tls&host=ger2.oppc.ir&type=ws&sni=ger2.oppc.ir#Germany+2
+
+trojan://1a614322-b66a-4e65-b841-e78599d7abb5@45.95.241.113:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=usa.oppc.ir#usa
