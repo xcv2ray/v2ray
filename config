@@ -10,8 +10,12 @@ trojan://da10afac-2557-47fe-870b-43ab8360b011@ast.ircf.space:443?path=%2Fwebsock
 
 trojan://da10afac-2557-47fe-870b-43ab8360b011@mkh.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.oppc.ir&fp=firefox&type=ws&sni=mkh.oppc.ir#Mokhaberat
 
+vmess://eyJhZGQiOiJzaHQuaXJjZi5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJwcm91ZGx5LWZhbGxpbmctYWJyYWhhbS1mb2xkaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwiaWQiOiIzNGYyNjczNS1iMTA2LTQ5NzktYmFlZi1lODliZjk2YWI0ODgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3M/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoiQXJnb194cmF5X3ZtZXNzIiwic2N5IjoiYXV0byIsInNuaSI6InByb3VkbHktZmFsbGluZy1hYnJhaGFtLWZvbGRpbmcudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vless://34f26735-b106-4979-baef-e89bf96ab488@mtn.ircf.space:443?path=%2Fvless%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=proudly-falling-abraham-folding.trycloudflare.com&fp=chrome&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_vless
+
+trojan://34f26735-b106-4979-baef-e89bf96ab488@mci.ircf.space:443?path=%2Ftrojan%3Fed2048&security=tls&host=proudly-falling-abraham-folding.trycloudflare.com&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_trojan
+
 trojan://c37d837d-b8fa-4cd2-a94a-c35b6ba1bee5@45.95.241.113:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ger1.oppc.ir&fp=firefox&type=ws&sni=ger1.oppc.ir#Germany+1
 
 trojan://a9963fdd-9d19-4f4c-a6bb-d960cc7d0c4a@104.27.21.6:443?path=%2Fwebsocket&security=tls&host=ger2.oppc.ir&type=ws&sni=ger2.oppc.ir#Germany+2
-
-trojan://1a614322-b66a-4e65-b841-e78599d7abb5@45.95.241.113:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=usa.oppc.ir#usa
