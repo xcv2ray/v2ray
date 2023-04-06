@@ -1,20 +1,20 @@
-trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mtn.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mtn1.oppc.ir&fp=firefox&type=ws&sni=mtn1.oppc.ir#IRC+1
+trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mtnn.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mtn1.oppc.ir&fp=firefox&type=ws&sni=mtn1.oppc.ir#IRC+1
 
-trojan://f214035c-c572-4ab9-ac5e-1c4a6ecacc3e@45.85.119.26:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=mtn2.oppc.ir#IRC+2
+trojan://f214035c-c572-4ab9-ac5e-1c4a6ecacc3e@mtnn.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=mtn2.oppc.ir#IRC+2
 
-trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mci.ircf.space:443?path=%2Fwebsocket&security=tls&host=mci1.oppc.ir&type=ws&sni=mci1.oppc.ir#MCI+1
+trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mcii.oppc.ir:443?path=%2Fwebsocket&security=tls&host=mci1.oppc.ir&type=ws&sni=mci1.oppc.ir#MCI+1
 
-trojan://91c068d1-bce9-4bc1-a4ac-7f2954d97471@45.95.241.113:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=mci2.oppc.ir#MCI+2
+trojan://91c068d1-bce9-4bc1-a4ac-7f2954d97471@mcii.oppc.ir:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=mci2.oppc.ir#MCI+2
 
-trojan://da10afac-2557-47fe-870b-43ab8360b011@ast.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ast.oppc.ir&fp=chrome&type=ws&sni=ast.oppc.ir#Asia+tech
+trojan://da10afac-2557-47fe-870b-43ab8360b011@astt.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ast.oppc.ir&fp=chrome&type=ws&sni=ast.oppc.ir#Asia+tech
 
-trojan://da10afac-2557-47fe-870b-43ab8360b011@mkh.ircf.space:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.oppc.ir&fp=firefox&type=ws&sni=mkh.oppc.ir#Mokhaberat
+trojan://da10afac-2557-47fe-870b-43ab8360b011@mkhh.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.oppc.ir&fp=firefox&type=ws&sni=mkh.oppc.ir#Mokhaberat
 
-vmess://eyJhZGQiOiJzaHQuaXJjZi5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJwcm91ZGx5LWZhbGxpbmctYWJyYWhhbS1mb2xkaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwiaWQiOiIzNGYyNjczNS1iMTA2LTQ5NzktYmFlZi1lODliZjk2YWI0ODgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3M/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoiQXJnb194cmF5X3ZtZXNzIiwic2N5IjoiYXV0byIsInNuaSI6InByb3VkbHktZmFsbGluZy1hYnJhaGFtLWZvbGRpbmcudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJtY2kuaXJjZi5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHJvdWRseS1mYWxsaW5nLWFicmFoYW0tZm9sZGluZy50cnljbG91ZGZsYXJlLmNvbSIsImlkIjoiMzRmMjY3MzUtYjEwNi00OTc5LWJhZWYtZTg5YmY5NmFiNDg4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IkFyZ29feHJheV92bWVzcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJwcm91ZGx5LWZhbGxpbmctYWJyYWhhbS1mb2xkaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://34f26735-b106-4979-baef-e89bf96ab488@mtn.ircf.space:443?path=%2Fvless%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=proudly-falling-abraham-folding.trycloudflare.com&fp=chrome&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_vless
+vless://34f26735-b106-4979-baef-e89bf96ab488@sht.ircf.space:443?path=%2Fvless%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=proudly-falling-abraham-folding.trycloudflare.com&fp=chrome&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_vless
 
-trojan://34f26735-b106-4979-baef-e89bf96ab488@mci.ircf.space:443?path=%2Ftrojan%3Fed2048&security=tls&host=proudly-falling-abraham-folding.trycloudflare.com&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_trojan
+trojan://34f26735-b106-4979-baef-e89bf96ab488@mtn.ircf.space:443?path=%2Ftrojan%3Fed2048&security=tls&host=proudly-falling-abraham-folding.trycloudflare.com&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_trojan
 
 trojan://c37d837d-b8fa-4cd2-a94a-c35b6ba1bee5@45.95.241.113:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ger1.oppc.ir&fp=firefox&type=ws&sni=ger1.oppc.ir#Germany+1
 
