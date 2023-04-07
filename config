@@ -1,10 +1,10 @@
-trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mtnn.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mtn1.oppc.ir&fp=firefox&type=ws&sni=mtn1.oppc.ir#IRC+1
+trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@[::ffff:2d55:7719]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mtn1.oppc.ir&fp=firefox&type=ws&sni=mtn1.oppc.ir#IRC+1
 
 trojan://f214035c-c572-4ab9-ac5e-1c4a6ecacc3e@mtnn.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=mtn2.oppc.ir#IRC+2
 
 trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mcii.oppc.ir:443?path=%2Fwebsocket&security=tls&host=mci1.oppc.ir&type=ws&sni=mci1.oppc.ir#MCI+1
 
-trojan://91c068d1-bce9-4bc1-a4ac-7f2954d97471@mcii.oppc.ir:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=mci2.oppc.ir#MCI+2
+trojan://91c068d1-bce9-4bc1-a4ac-7f2954d97471@[::ffff:2d5f:f171]:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=mci2.oppc.ir#MCI+2
 
 trojan://da10afac-2557-47fe-870b-43ab8360b011@astt.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ast.oppc.ir&fp=chrome&type=ws&sni=ast.oppc.ir#Asia+tech
 
@@ -19,3 +19,5 @@ trojan://34f26735-b106-4979-baef-e89bf96ab488@mtn.ircf.space:443?path=%2Ftrojan%
 trojan://c37d837d-b8fa-4cd2-a94a-c35b6ba1bee5@45.95.241.113:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ger1.oppc.ir&fp=firefox&type=ws&sni=ger1.oppc.ir#Germany+1
 
 trojan://a9963fdd-9d19-4f4c-a6bb-d960cc7d0c4a@104.27.21.6:443?path=%2Fwebsocket&security=tls&host=ger2.oppc.ir&type=ws&sni=ger2.oppc.ir#Germany+2
+
+vless://0ea45a29-3b09-4da8-a77c-b8d8113401ef@116.203.0.57:443?security=reality&encryption=none&pbk=ecWm8tj2wUJ96A2clqB1k4M6Cb1KZJ7LKBI3niHI3Ho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#reality+tcp
