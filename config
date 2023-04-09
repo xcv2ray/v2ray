@@ -1,23 +1,15 @@
-trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@[::ffff:2d55:7719]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mtn1.oppc.ir&fp=firefox&type=ws&sni=mtn1.oppc.ir#IRC+1
+trojan://ee08ea4c-91b5-48ba-b686-b6d625a7e2da@[::ffff:2d55:7719]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=germany1.oppc.ir&fp=chrome&type=ws&sni=germany1.oppc.ir#irancell+1%F0%9F%87%A9%F0%9F%87%AA
 
-trojan://f214035c-c572-4ab9-ac5e-1c4a6ecacc3e@mtnn.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=mtn2.oppc.ir#IRC+2
+trojan://31a57c02-5ff2-4687-9f1e-145540ef09ae@mtnn.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=germany2.oppc.ir&fp=chrome&type=ws&sni=germany2.oppc.ir#irancell+2%F0%9F%87%A9%F0%9F%87%AA
 
-trojan://cfb5c6aa-3f6f-451f-8c0a-ecbd7d9f75b6@mcii.oppc.ir:443?path=%2Fwebsocket&security=tls&host=mci1.oppc.ir&type=ws&sni=mci1.oppc.ir#MCI+1
+trojan://ff5d056d-7d3c-45a1-89cb-a8fa37f77ea8@mcii.oppc.ir:443?path=%2Fwebsocket&security=tls&host=germany4.oppc.ir&type=ws&sni=germany4.oppc.ir#mci+1%F0%9F%87%A9%F0%9F%87%AA
 
-trojan://91c068d1-bce9-4bc1-a4ac-7f2954d97471@[::ffff:2d5f:f171]:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=mci2.oppc.ir#MCI+2
+trojan://81873d50-d487-44ce-a0d2-dee03c187616@[::ffff:2d5f:f171]:443?path=%2Fwebsocket&security=tls&host=germany4.oppc.ir&type=ws&sni=germany4.oppc.ir#mci+2%F0%9F%87%A9%F0%9F%87%AA
 
-trojan://da10afac-2557-47fe-870b-43ab8360b011@astt.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ast.oppc.ir&fp=chrome&type=ws&sni=ast.oppc.ir#Asia+tech
+trojan://da10afac-2557-47fe-870b-43ab8360b011@mkhh.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.oppc.ir&fp=firefox&type=ws&sni=mkh.oppc.ir#Mokhaberat%F0%9F%87%AB%F0%9F%87%B7
 
-trojan://da10afac-2557-47fe-870b-43ab8360b011@mkhh.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.oppc.ir&fp=firefox&type=ws&sni=mkh.oppc.ir#Mokhaberat
+trojan://da10afac-2557-47fe-870b-43ab8360b011@astt.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ast.oppc.ir&fp=chrome&type=ws&sni=ast.oppc.ir#Asia+tech%F0%9F%87%AB%F0%9F%87%B7
 
-vmess://eyJhZGQiOiJtY2kuaXJjZi5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHJvdWRseS1mYWxsaW5nLWFicmFoYW0tZm9sZGluZy50cnljbG91ZGZsYXJlLmNvbSIsImlkIjoiMzRmMjY3MzUtYjEwNi00OTc5LWJhZWYtZTg5YmY5NmFiNDg4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IkFyZ29feHJheV92bWVzcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJwcm91ZGx5LWZhbGxpbmctYWJyYWhhbS1mb2xkaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMDQuMjcuMjEuNiIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoicGFraXN0YW4ub3BwYy5pciIsImlkIjoiNDdhNmIzYzEtYmRmNC00YmJhLThkMmEtZWExNjFjYmQxYzhhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiUGFraXN0YW7wn4e18J+HsCIsInNjeSI6ImF1dG8iLCJzbmkiOiJwYWtpc3Rhbi5vcHBjLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://34f26735-b106-4979-baef-e89bf96ab488@sht.ircf.space:443?path=%2Fvless%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=proudly-falling-abraham-folding.trycloudflare.com&fp=chrome&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_vless
-
-trojan://34f26735-b106-4979-baef-e89bf96ab488@mtn.ircf.space:443?path=%2Ftrojan%3Fed2048&security=tls&host=proudly-falling-abraham-folding.trycloudflare.com&type=ws&sni=proudly-falling-abraham-folding.trycloudflare.com#Argo_xray_trojan
-
-trojan://c37d837d-b8fa-4cd2-a94a-c35b6ba1bee5@45.95.241.113:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ger1.oppc.ir&fp=firefox&type=ws&sni=ger1.oppc.ir#Germany+1
-
-trojan://a9963fdd-9d19-4f4c-a6bb-d960cc7d0c4a@104.27.21.6:443?path=%2Fwebsocket&security=tls&host=ger2.oppc.ir&type=ws&sni=ger2.oppc.ir#Germany+2
-
-vless://0ea45a29-3b09-4da8-a77c-b8d8113401ef@116.203.0.57:443?security=reality&encryption=none&pbk=ecWm8tj2wUJ96A2clqB1k4M6Cb1KZJ7LKBI3niHI3Ho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#reality+tcp
+vmess://eyJhZGQiOiIxMDQuMjEuMjAxLjMzIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYzc2OTIyY2YtN2E4Yi00NGY5LWFmMWMtMmJhOTFiZmI0MTI2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJncnBjIiwicG9ydCI6IjQ0MyIsInBzIjoid2lmaSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcmFic3Rhbi5vcHBjLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
