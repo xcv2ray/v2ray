@@ -1,15 +1,25 @@
-trojan://ee08ea4c-91b5-48ba-b686-b6d625a7e2da@[::ffff:2d55:7719]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=germany1.oppc.ir&fp=chrome&type=ws&sni=germany1.oppc.ir#irancell+1%F0%9F%87%A9%F0%9F%87%AA
+trojan://3ae8333a-8118-41e6-b93e-60a125aa1ef9@shtt.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=lit14.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=lit14.learnrussiabefarsi.cf#shatel+Lithuania+%F0%9F%87%B1%F0%9F%87%B9
 
-trojan://31a57c02-5ff2-4687-9f1e-145540ef09ae@mtnn.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=germany2.oppc.ir&fp=chrome&type=ws&sni=germany2.oppc.ir#irancell+2%F0%9F%87%A9%F0%9F%87%AA
+trojan://677c93ac-8b76-4a60-8352-ff49e4dc7233@astt.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit1.oppc.ir#Asiatech+%F0%9F%87%B1%F0%9F%87%B9
 
-trojan://ff5d056d-7d3c-45a1-89cb-a8fa37f77ea8@mcii.oppc.ir:443?path=%2Fwebsocket&security=tls&host=germany4.oppc.ir&type=ws&sni=germany4.oppc.ir#mci+1%F0%9F%87%A9%F0%9F%87%AA
+trojan://7c36aa3d-f46a-4675-8095-bfd1bd4b1fb6@mkhh.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit2.oppc.ir#Mokhanerat+%F0%9F%87%B1%F0%9F%87%B9
 
-trojan://81873d50-d487-44ce-a0d2-dee03c187616@[::ffff:2d5f:f171]:443?path=%2Fwebsocket&security=tls&host=germany4.oppc.ir&type=ws&sni=germany4.oppc.ir#mci+2%F0%9F%87%A9%F0%9F%87%AA
+trojan://7c36aa3d-f46a-4675-8095-bfd1bd4b1fb6@[::ffff:2d55:7719]:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit3.oppc.ir#Irancell+%F0%9F%87%B1%F0%9F%87%B9
 
-trojan://da10afac-2557-47fe-870b-43ab8360b011@mkhh.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=mkh.oppc.ir&fp=firefox&type=ws&sni=mkh.oppc.ir#Mokhaberat%F0%9F%87%AB%F0%9F%87%B7
+trojan://7c36aa3d-f46a-4675-8095-bfd1bd4b1fb6@mcii.oppc.ir:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=lit4.oppc.ir#mci+%F0%9F%87%B1%F0%9F%87%B9
 
-trojan://da10afac-2557-47fe-870b-43ab8360b011@astt.oppc.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ast.oppc.ir&fp=chrome&type=ws&sni=ast.oppc.ir#Asia+tech%F0%9F%87%AB%F0%9F%87%B7
+trojan://3474dcfa-b241-4a98-8e2b-a380920dd544@[::ffff:2d5f:f171]:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=git.oppc.ir#Singapore+%F0%9F%87%B8%F0%9F%87%AC
 
-vmess://eyJhZGQiOiIxMDQuMjcuMjEuNiIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoicGFraXN0YW4ub3BwYy5pciIsImlkIjoiNDdhNmIzYzEtYmRmNC00YmJhLThkMmEtZWExNjFjYmQxYzhhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiUGFraXN0YW7wn4e18J+HsCIsInNjeSI6ImF1dG8iLCJzbmkiOiJwYWtpc3Rhbi5vcHBjLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://20101b38-b6f6-4e9a-a2c0-7691189f7cd5@[::ffff:ac40:8832]:443?path=%2Fwebsocket&security=tls&host=uae.oppc.ir&type=ws&sni=uae.oppc.ir#Indonesia+%F0%9F%87%AE%F0%9F%87%A9
 
-vmess://eyJhZGQiOiIxMDQuMjEuMjAxLjMzIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYzc2OTIyY2YtN2E4Yi00NGY5LWFmMWMtMmJhOTFiZmI0MTI2IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJncnBjIiwicG9ydCI6IjQ0MyIsInBzIjoid2lmaSIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcmFic3Rhbi5vcHBjLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI0NS44NS4xMTkuNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYjEuaXJhbmlhbmNwLmF1dG9zIiwiaWQiOiIwYzY2NGY0NC05ZjY5LTQ1NGYtODQxYS00NjE2NzE1ZGYyNmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4ODgwIiwicHMiOiJJcmFuaWFuIEN5cGhlcnB1bmtzIDg4ODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@45.95.241.124:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#Iranian+Cypherpunks+8080
+
+vmess://eyJhZGQiOiIxODUuMTguMjUwLjIxNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYjMuaXJhbmlhbmNwLmF1dG9zIiwiaWQiOiI0NGM0NjdhOS04ZjBkLTQxYTUtZjAwYi04NjU2OTc1M2U1YjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4MCIsInBzIjoiSXJhbmlhbiBDeXBoZXJwdW5rcyA4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@162.159.128.31:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b4.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+8443
+
+vmess://eyJhZGQiOiIxNzAuMTE0LjQ1LjE5NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYjUuaXJhbmlhbmNwLmF1dG9zIiwiaWQiOiI3MmY3NmMzNi0zZTNjLTQ1YjMtYTYxZi1kOGYwMTczNDU5NTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiIyMDUzIiwicHMiOiJJcmFuaWFuIEN5cGhlcnB1bmtzIDIwNTMiLCJzY3kiOiJhdXRvIiwic25pIjoiaXJhbmlhbmNwLmF1dG9zIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@170.114.45.12:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b6.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+2083
