@@ -1,10 +1,10 @@
-trojan://3ae8333a-8118-41e6-b93e-60a125aa1ef9@[::ffff:ac40:8832]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=lit14.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=lit14.learnrussiabefarsi.cf#shatel+Lithuania+%F0%9F%87%B1%F0%9F%87%B9
+trojan://3ae8333a-8118-41e6-b93e-60a125aa1ef9@[::ffff:a29f:801f]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=lit14.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=lit14.learnrussiabefarsi.cf#shatel+Lithuania+%F0%9F%87%B1%F0%9F%87%B9
 
 trojan://677c93ac-8b76-4a60-8352-ff49e4dc7233@astt.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit1.oppc.ir#Asiatech+%F0%9F%87%B1%F0%9F%87%B9
 
 trojan://7c36aa3d-f46a-4675-8095-bfd1bd4b1fb6@mkhh.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit2.oppc.ir#Mokhanerat+%F0%9F%87%B1%F0%9F%87%B9
 
-trojan://7c36aa3d-f46a-4675-8095-bfd1bd4b1fb6@[::ffff:2d55:7719]:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit3.oppc.ir#Irancell+%F0%9F%87%B1%F0%9F%87%B9
+trojan://7c36aa3d-f46a-4675-8095-bfd1bd4b1fb6@mtnx1.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit3.oppc.ir#Irancell+%F0%9F%87%B1%F0%9F%87%B9
 
 trojan://7c36aa3d-f46a-4675-8095-bfd1bd4b1fb6@newmci.oppc.ir:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit4.oppc.ir#mci+1+%F0%9F%87%B1%F0%9F%87%B9
 
@@ -12,7 +12,7 @@ trojan://a9993ee8-39df-4a65-be6a-af97a5977c16@newmci2.oppc.ir:443?mode=gun&secur
 
 trojan://3474dcfa-b241-4a98-8e2b-a380920dd544@[::ffff:2d5f:f171]:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=git.oppc.ir#Singapore+%F0%9F%87%B8%F0%9F%87%AC
 
-trojan://20101b38-b6f6-4e9a-a2c0-7691189f7cd5@[::ffff:ac40:8832]:443?path=%2Fwebsocket&security=tls&host=uae.oppc.ir&type=ws&sni=uae.oppc.ir#Indonesia+%F0%9F%87%AE%F0%9F%87%A9
+trojan://20101b38-b6f6-4e9a-a2c0-7691189f7cd5@newmci3.oppc.ir:443?path=%2Fwebsocket&security=tls&host=uae.oppc.ir&type=ws&sni=uae.oppc.ir#Indonesia+%F0%9F%87%AE%F0%9F%87%A9
 
 vmess://eyJhZGQiOiI0NS44NS4xMTkuNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYjEuaXJhbmlhbmNwLmF1dG9zIiwiaWQiOiIwYzY2NGY0NC05ZjY5LTQ1NGYtODQxYS00NjE2NzE1ZGYyNmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI4ODgwIiwicHMiOiJJcmFuaWFuIEN5cGhlcnB1bmtzIDg4ODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
