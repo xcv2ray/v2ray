@@ -6,19 +6,19 @@ trojan://36b495ff-0498-4df4-bb60-d5b908c05f6c@mci.ircf.space:443?mode=gun&securi
 
 trojan://2a9ff7ba-f957-4a60-8d44-f1d1ed7c9b37@[::ffff:c629:df02]:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=edge&type=grpc&serviceName=grpc&sni=frc33.oppc.ir#%F0%9F%87%AB%F0%9F%87%B7+wifi
 
-vless://5ff9fe55-cf9f-4566-d332-03fe79399755@Irancell.tel-parsashonam.website:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#%F0%9F%87%A9%F0%9F%87%AA+irancell
+vless://5ff9fe55-cf9f-4566-d332-03fe79399755@Irancell.tel-parsashonam.website:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#%F0%9F%87%A9%F0%9F%87%AA+irancell%26wifi
 
-vless://7c494402-faf8-4da4-815b-734520bda89b@Irancell.tel-parsashonam.website:36556?mode=multi&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=gmail.com&sid=8aecca#%F0%9F%87%A9%F0%9F%87%AA+irancell
+vless://7c494402-faf8-4da4-815b-734520bda89b@Irancell.tel-parsashonam.website:36556?mode=multi&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=gmail.com&sid=8aecca#%F0%9F%87%A9%F0%9F%87%AA+irancell%26wifi
 
-vless://7c494402-faf8-4da4-815b-734520bda89b@mci.tel-parsashonam.website:36556?mode=gun&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=gmail.com&sid=8aecca#%F0%9F%87%A9%F0%9F%87%AA+mci
+vless://7c494402-faf8-4da4-815b-734520bda89b@mci.tel-parsashonam.website:36556?mode=gun&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=gmail.com&sid=8aecca#%F0%9F%87%A9%F0%9F%87%AA+mci%26wifi
 
-vless://5ff9fe55-cf9f-4566-d332-03fe79399755@mci.tel-parsashonam.website:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#%F0%9F%87%A9%F0%9F%87%AA+mci
+vless://5ff9fe55-cf9f-4566-d332-03fe79399755@mci.tel-parsashonam.website:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#%F0%9F%87%A9%F0%9F%87%AA+mci%26wifi
 
-vless://0ea45a29-3b09-4da8-a77c-b8d8113401ef@ipv4.gately.us:443?security=reality&encryption=none&pbk=ecWm8tj2wUJ96A2clqB1k4M6Cb1KZJ7LKBI3niHI3Ho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%87%A9%F0%9F%87%AA+mci
+vless://0ea45a29-3b09-4da8-a77c-b8d8113401ef@ipv4.gately.us:443?security=reality&encryption=none&pbk=ecWm8tj2wUJ96A2clqB1k4M6Cb1KZJ7LKBI3niHI3Ho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%87%A9%F0%9F%87%AA+mci%26wifi
 
-vless://93bfbe5a-7fcc-4519-a7fb-d302f672ce31@172.105.104.142:29655?security=reality&encryption=none&pbk=B4AIkJz8OxWDKBAml11-nuLbAEnDFf0xQ6feduXJMko&headerType=none&fp=chrome&type=tcp&sni=Gmail.com&sid=6fdaee06#%F0%9F%87%A8%F0%9F%87%A6+mci
+vless://93bfbe5a-7fcc-4519-a7fb-d302f672ce31@172.105.104.142:29655?security=reality&encryption=none&pbk=B4AIkJz8OxWDKBAml11-nuLbAEnDFf0xQ6feduXJMko&headerType=none&fp=chrome&type=tcp&sni=Gmail.com&sid=6fdaee06#%F0%9F%87%A8%F0%9F%87%A6+mci%26wifi
 
-vless://f283fbef-8cbd-470f-bcf2-56f9cc452b64@185.167.99.101:38727?security=reality&encryption=none&pbk=9ycr-c3-za_zRvx3ek3TsV99h8Xpx1LYPUFzoT5jIT0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7784fc14#%F0%9F%87%B3%F0%9F%87%B1+mci
+vless://f283fbef-8cbd-470f-bcf2-56f9cc452b64@185.167.99.101:38727?security=reality&encryption=none&pbk=9ycr-c3-za_zRvx3ek3TsV99h8Xpx1LYPUFzoT5jIT0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7784fc14#%F0%9F%87%B3%F0%9F%87%B1+mci%24wifi
 
 vmess://eyJhZGQiOiJtdG4uaXJhbmlhbmNwLmF1dG9zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjBjNjY0ZjQ0LTlmNjktNDU0Zi04NDFhLTQ2MTY3MTVkZjI2ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6Ijg4ODAiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgODg4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
