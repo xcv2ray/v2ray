@@ -1,10 +1,12 @@
+vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJnZy5zYWxhbXNhc3VhZ2UubWwiLCJpZCI6IjI0OTRmMjhhLTMyZWUtNDQyNS05ZmU3LWIzMzVjMGM3NDY4ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkFsbCAxIPCfh6vwn4e3Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJzbmFwcGZvb2QuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJ0YXBzaS5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImVkZ2UiLCJob3N0IjoiaGguc2FsYW1zYXN1YWdlLm1sIiwiaWQiOiI5MTdjZDA4Ni01Njk1LTQzMDItOGRjYi1lODQzYjBhZDg5ZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJBbGwgMiDwn4er8J+HtyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoic25hcHAuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
 trojan://dad19e6f-f0a2-462e-a206-ebd817680afd@172.64.229.46:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=grpc&sni=lit55.oppc.ir#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7+%D8%A8%D8%A7%DB%8C%D8%AF+%D8%A8%D9%87+%D9%86%D8%B3%D8%AE%D9%87+1.8.3+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%A9%D9%86%DB%8C%D8%AF
 
 trojan://a10802ff-249d-4e71-b45d-54ec2fee4918@dbn.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=grpc&sni=lit765.oppc.ir#%F0%9F%87%B1%F0%9F%87%B9+wifi
 
 trojan://36b495ff-0498-4df4-bb60-d5b908c05f6c@mci.ircf.space:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=edge&type=grpc&serviceName=grpc&sni=lit654.oppc.ir#%F0%9F%87%B1%F0%9F%87%B9+wifi
-
-trojan://2a9ff7ba-f957-4a60-8d44-f1d1ed7c9b37@[::ffff:c629:df02]:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=edge&type=grpc&serviceName=grpc&sni=frc33.oppc.ir#%F0%9F%87%AB%F0%9F%87%B7+wifi
 
 vless://5ff9fe55-cf9f-4566-d332-03fe79399755@Irancell.tel-parsashonam.website:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#%F0%9F%87%A9%F0%9F%87%AA+irancell%26wifi
 
@@ -19,17 +21,3 @@ vless://0ea45a29-3b09-4da8-a77c-b8d8113401ef@ipv4.gately.us:443?security=reality
 vless://93bfbe5a-7fcc-4519-a7fb-d302f672ce31@172.105.104.142:29655?security=reality&encryption=none&pbk=B4AIkJz8OxWDKBAml11-nuLbAEnDFf0xQ6feduXJMko&headerType=none&fp=chrome&type=tcp&sni=Gmail.com&sid=6fdaee06#%F0%9F%87%A8%F0%9F%87%A6+mci%26wifi
 
 vless://f283fbef-8cbd-470f-bcf2-56f9cc452b64@185.167.99.101:38727?security=reality&encryption=none&pbk=9ycr-c3-za_zRvx3ek3TsV99h8Xpx1LYPUFzoT5jIT0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7784fc14#%F0%9F%87%B3%F0%9F%87%B1+mci%24wifi
-
-vmess://eyJhZGQiOiJtdG4uaXJhbmlhbmNwLmF1dG9zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjBjNjY0ZjQ0LTlmNjktNDU0Zi04NDFhLTQ2MTY3MTVkZjI2ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6Ijg4ODAiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgODg4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#Iranian+Cypherpunks+8080
-
-vmess://eyJhZGQiOiJzdXBwb3J0LmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMy5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjQ0YzQ2N2E5LThmMGQtNDFhNS1mMDBiLTg2NTY5NzUzZTViMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJJcmFuaWFuIEN5cGhlcnB1bmtzIDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@maeve.ns.cloudflare.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b4.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+8443
-
-vmess://eyJhZGQiOiJtY2kuaXJhbmlhbmNwLmF1dG9zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiNS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjIwNTMiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgMjA1MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJpcmFuaWFuY3AuYXV0b3MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@198.41.223.2:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b6.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+2083
-
-vmess://eyJhZGQiOiIxMDQuMTguMjMxLjE4NyIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ0ZXN0LmlyYW5pYW5jcC5hdXRvcyIsImlkIjoiNjhjNGQ4NDItOTEwZi00ZTUyLTg2MGItNjczZjYzZDUwZWZlIiwibmV0Ijoid3MiLCJwYXRoIjoiLzU4YzNlYmFiNzdhYWEwP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IlRlc3QgSXJhbmlhbiBDeXBoZXJwdW5rcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiaXJhbmlhbmNwLmF1dG9zIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
