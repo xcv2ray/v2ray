@@ -1,4 +1,4 @@
-trojan://6a4d4ca1-f296-4845-825f-92925c883e7d@speed.cloudflare.com:443?path=%2Fwebsocket&security=tls&alpn=http/1.1&host=kj.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=kj.learnrussiabefarsi.cf#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87+%D8%A7%D8%B2+reality+%D8%A8%D9%87+%D9%86%D8%B3%D8%AE%D9%87+1.8.3+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%A9%D9%86%DB%8C%D8%AF
+trojan://6a4d4ca1-f296-4845-825f-92925c883e7d@speed.cloudflare.com:443?path=%2Fwebsocket&security=tls&alpn=http/1.1&host=kj.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=kj.learnrussiabefarsi.cf#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87+%D8%A7%D8%B2+reality+%D8%A8%D9%87+%D9%86%D8%B3%D8%AE%D9%87+%D8%A8%D8%AA%D8%A7+1.8.4+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%A9%D9%86%DB%8C%D8%AF
 
 vless://2E02E594-6A46-4DD8-AFFC-9CA3587E1788@185.33.24.53:443?security=reality&encryption=none&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kino.pub&sid=f8c6e9b40a9c6f26#reality+%F0%9F%87%B9%F0%9F%87%B7
 
@@ -6,9 +6,9 @@ vless://2E02E594-6A46-4DD8-AFFC-9CA3587E1788@185.140.12.165:443?security=reality
 
 vless://7c494402-faf8-4da4-815b-734520bda89b@Irancell.tel-parsashonam.website:36556?mode=multi&security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=gmail.com&sid=8aecca#%F0%9F%87%A9%F0%9F%87%AA+reality++irancell
 
-vless://da53a17e-543a-4210-91f9-1bc3fc806169@20.63.107.85:30458?mode=gun&security=reality&encryption=none&pbk=a6I_XrIYMmAgVUbu-thtH3y8Xtxm-Na3LDAAAqctoA8&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=gmail.com&sid=d9fffa0a#%F0%9F%87%A8%F0%9F%87%A6+reality+mci
+vless://0b0f4ff2-b975-47a1-841b-9139ad80ab3d@telegram.tel-parsashonam.website:30733?mode=gun&security=reality&encryption=none&pbk=soDGa2LsHhb_9oFK05gS_RIkMeOrkZ6Xf5InUMqzqwc&fp=chrome&type=grpc&serviceName=&sni=yahoo.com&sid=6ead258c#%F0%9F%87%A9%F0%9F%87%AA+reality+mci+%26+shatel
 
-trojan://9dfac80f-5fd4-4503-9f43-6deaa66093c7@chat.openai.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ui.learnrussiabefarsi.cf&fp=edge&type=ws&sni=ui.learnrussiabefarsi.cf#%F0%9F%87%B1%F0%9F%87%B9
+trojan://9dfac80f-5fd4-4503-9f43-6deaa66093c7@chat.openai.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ui.learnrussiabefarsi.cf&fp=edge&type=ws&sni=ui.learnrussiabefarsi.cf#%F0%9F%87%B1%F0%9F%87%B9+Lithuania
 
 trojan://679499e3-36f3-4e6f-ac83-852c7b9cfac5@chat.openai.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=withered-firef9e.j-b.workers.dev&fp=edge&type=ws&sni=withered-firef9e.j-b.workers.dev#%F0%9F%87%B1%F0%9F%87%B9+wifi+%26+rightel
 
@@ -20,7 +20,7 @@ trojan://dfde1f65-6f02-4b33-8a69-2f40885025ce@chat.openai.com:443?path=%2Fwebsoc
 
 vmess://eyJhZGQiOiJkYm4uaXJjZi5zcGFjZSVkOCU4Y21jaS5pcmNmLnNwYWNlJWQ4JThjbXRuLmlyY2Yuc3BhY2UlZDglOGNta2guaXJjZi5zcGFjZSVkOCU4Y3NodC5pcmNmLnNwYWNlJWQ4JThjYXN0LmlyY2Yuc3BhY2UlZDglOGNydGwuaXJjZi5zcGFjZSVkOCU4Y2h3Yi5pcmNmLnNwYWNlIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InVnZi5sZWFybnJ1c3NpYWJlZmFyc2kuY2YiLCJpZCI6IjMxMTY4ODIwLWU3NWEtMTFlZC05ZjhhLTEyMzlkMDI1NTI3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bXdzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVk1FU1MtV1MoMjAyMy0wNS0wNykiLCJzY3kiOiJub25lIiwic25pIjoidWdmLmxlYXJucnVzc2lhYmVmYXJzaS5jZiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vless://9e8432d0-e75c-11ed-84ab-1239d0255272@chat.openai.com:443?path=%2Fvlws&security=tls&encryption=none&alpn=h2,http/1.1&host=kob.learnrussiabefarsi.cf&fp=edge&type=ws&sni=kob.learnrussiabefarsi.cf#%F0%9F%87%AB%F0%9F%87%B7+Vless-WS%282023-05-07%29
+vless://9e8432d0-e75c-11ed-84ab-1239d0255272@lars.ns.cloudflare.com:443?path=%2Fvlws&security=tls&encryption=none&alpn=h2,http/1.1&host=kob.learnrussiabefarsi.cf&fp=edge&type=ws&sni=kob.learnrussiabefarsi.cf#%F0%9F%87%AB%F0%9F%87%B7+Vless-WS%282023-05-07%29
 
 vmess://eyJhZGQiOiJtdG4uaXJhbmlhbmNwLmF1dG9zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjBjNjY0ZjQ0LTlmNjktNDU0Zi04NDFhLTQ2MTY3MTVkZjI2ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6Ijg4ODAiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgODg4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
