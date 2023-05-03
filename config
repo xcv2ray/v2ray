@@ -1,8 +1,8 @@
 trojan://9dfac80f-5fd4-4503-9f43-6deaa66093c7@chat.openai.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ui.learnrussiabefarsi.cf&fp=edge&type=ws&sni=ui.learnrussiabefarsi.cf#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87+%D8%A7%D8%B2+reality+%D8%A8%D9%87+%D9%86%D8%B3%D8%AE%D9%87+%D8%A8%D8%AA%D8%A7+1.8.4+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%A9%D9%86%DB%8C%D8%AF
 
-vless://9c84e4bd-3f25-4520-c914-a72140ac49fe@irancell.tel-parsashonam.website:44573?mode=gun&security=reality&encryption=none&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&fp=chrome&type=grpc&serviceName=&sni=www.yahoo.com&sid=39153825#reality+irancell+%F0%9F%87%A9%F0%9F%87%AA
+vless://5ff9fe55-cf9f-4566-d332-03fe79399755@irancell.tel-parsashonam.website:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#%F0%9F%87%A9%F0%9F%87%AA+reality+irancell+rightel
 
-vless://5fde2a2b-6584-4049-b6bd-e5218e623840@srv.tel-parsashonam.website:30880?mode=gun&security=reality&encryption=none&pbk=ok01Xr3wRlRXgHnKKjPWNKvw7ZqkjRfRNDGDrdK5Sxc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=yahoo.com&sid=4a93e113#reality+mci+%F0%9F%87%A9%F0%9F%87%AA
+vless://3acfae20-72c6-4b5e-de96-2b96f00e1ad8@139.144.70.48:20087?security=reality&encryption=none&pbk=nIn85CpBfYEX2Q9lwNoegRjq6XiwXlBJYR2QXjJ9mDk&headerType=none&fp=firefox&spx=%2Ftelegram-%40PARSASHONAM&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#%F0%9F%87%A9%F0%9F%87%AA+reality+mci+shatel
 
 vless://2E02E594-6A46-4DD8-AFFC-9CA3587E1788@180.149.45.73:443?security=reality&encryption=none&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kino.pub&sid=f8c6e9b40a9c6f26#reality+%F0%9F%87%A6%F0%9F%87%BF+%DA%86%D8%B1%D8%AE%D8%B4%DB%8C
 
@@ -20,11 +20,14 @@ trojan://3ba4b0bd-c161-4b84-9b84-c1f4fad99207@delino.ir:443?path=%2Fwebsocket&se
 
 trojan://dc4c0066-b716-4c92-ad16-6005038a0453@snappfood.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=usy.salamsasuage.ml&fp=edge&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+All+network+4
 
-vmess://eyJhZGQiOiJoYWhhLmxlYXJuZW5nbGlzaDExZ2VybWFueS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJyYW5kb20iLCJob3N0IjoibGl0dGxlLXVuaW9uLTQ4MDkuai1iLndvcmtlcnMuZGV2IiwiaWQiOiJGMDI1OUQ4OC0yMzMxLTQxMDktQTU0MC1CMjQwREZBMjUxRjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQW1zdGVyZGFtLmtvdGljay5zaXRlOjQ0My9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiJ3b3JrZXItaXAgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaXR0bGUtdW5pb24tNDgwOS5qLWIud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJtdG4uaXJhbmlhbmNwLmF1dG9zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjBjNjY0ZjQ0LTlmNjktNDU0Zi04NDFhLTQ2MTY3MTVkZjI2ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6Ijg4ODAiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgODg4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiJjZnQuYm9sZC12aW9sZXQtNjgzNS5qLWJhZ2hlcmk3NS53b3JrZXJzLmRldiIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJib2xkLXZpb2xldC02ODM1LmotYmFnaGVyaTc1LndvcmtlcnMuZGV2IiwiaWQiOiI3OTVDQUM2OC00Q0Y4LTQyRDYtQkNGNi1FREFBOEVEQ0M0MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQW1zdGVyZGFtLmtvdGljay5zaXRlOjQ0My9zcGVlZHRlc3QiLCJwb3J0IjoiNDQzIiwicHMiOiJ3b3JrZXItaXAgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJib2xkLXZpb2xldC02ODM1LmotYmFnaGVyaTc1LndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#Iranian+Cypherpunks+8080
 
-vmess://eyJhZGQiOiJmYWZhLmZsYXQtZnJvZy0yM2Y2LmotYmFnaGVyaTEyMzQ2MzEud29ya2Vycy5kZXYiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJzYWZhcmkiLCJob3N0IjoiZmxhdC1mcm9nLTIzZjYuai1iYWdoZXJpMTIzNDYzMS53b3JrZXJzLmRldiIsImlkIjoiZTViZTZiNTMtMzY0NS00M2RmLWE0MDMtN2IzNTRmMzEyYmJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RlMi12bWVzcy5ncmVlbnNzaC54eXo6NDQzLyIsInBvcnQiOiI0NDMiLCJwcyI6Indvcmtlci1pcCAzIiwic2N5IjoiYXV0byIsInNuaSI6ImZsYXQtZnJvZy0yM2Y2LmotYmFnaGVyaTEyMzQ2MzEud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJzdXBwb3J0LmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMy5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjQ0YzQ2N2E5LThmMGQtNDFhNS1mMDBiLTg2NTY5NzUzZTViMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJJcmFuaWFuIEN5cGhlcnB1bmtzIDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJoZWxsby53YW5kZXJpbmctcml2ZXItMmU0NS5tLWotam9yZGFuLndvcmtlcnMuZGV2IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IndhbmRlcmluZy1yaXZlci0yZTQ1Lm0tai1qb3JkYW4ud29ya2Vycy5kZXYiLCJpZCI6Ijc5NUNBQzY4LTRDRjgtNDJENi1CQ0Y2LUVEQUE4RURDQzQzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9BbXN0ZXJkYW0ua290aWNrLnNpdGU6NDQzL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6Indvcmtlci1pcCA0Iiwic2N5IjoiYXV0byIsInNuaSI6IndhbmRlcmluZy1yaXZlci0yZTQ1Lm0tai1qb3JkYW4ud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b4.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+8443
 
+vmess://eyJhZGQiOiIxMDQuMTguMjQuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImI1LmlyYW5pYW5jcC5hdXRvcyIsImlkIjoiNzJmNzZjMzYtM2UzYy00NWIzLWE2MWYtZDhmMDE3MzQ1OTU4IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMjA1MyIsInBzIjoiSXJhbmlhbiBDeXBoZXJwdW5rcyAyMDUzIiwic2N5IjoiYXV0byIsInNuaSI6ImlyYW5pYW5jcC5hdXRvcyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.18.231.187:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b6.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+2083
