@@ -1,8 +1,8 @@
-trojan://9dfac80f-5fd4-4503-9f43-6deaa66093c7@chat.openai.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ui.learnrussiabefarsi.cf&fp=edge&type=ws&sni=ui.learnrussiabefarsi.cf#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87+%D8%A7%D8%B2+reality+%D8%A8%D9%87+%D9%86%D8%B3%D8%AE%D9%87+%D8%A8%D8%AA%D8%A7+1.8.4+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%A9%D9%86%DB%8C%D8%AF
+trojan://1a3efd21-b811-45dd-a648-93925467031e@chat.openai.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ui.learnrussiabefarsi.cf&fp=firefox&type=ws&sni=ui.learnrussiabefarsi.cf#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87+%D8%A7%D8%B2+reality+%D8%A8%D9%87+%D9%86%D8%B3%D8%AE%D9%87+%D8%A8%D8%AA%D8%A7+1.8.4+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%A9%D9%86%DB%8C%D8%AF
 
-vless://5ff9fe55-cf9f-4566-d332-03fe79399755@irancell.tel-parsashonam.website:31333?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0145#%F0%9F%87%A9%F0%9F%87%AA+reality+irancell+rightel
+vless://acdd2a30-02ce-4f06-ff6c-a9b8351c9be7@irancell.tel-parsashonam.website:21646?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=03#%F0%9F%87%A9%F0%9F%87%AA+reality+irancell+rightel
 
-vless://c89b3730-8831-440c-be4c-e7510e21fcb1@telegram.tel-parsashonam.website:53893?security=reality&encryption=none&pbk=tYJrxR__4hcXCZ1QbFEA7NE6LzDbzdpftcMEgkTSngw&headerType=none&fp=firefox&spx=%2FTELEGRAM-%40PARSASHONAM&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=546b#%F0%9F%87%A9%F0%9F%87%AA+reality+mci+shatel
+vless://edfe6d67-a914-4108-cb35-2c0956912048@srv3.tel-parsashonam.website:18461?security=reality&encryption=none&pbk=QVpZJNBM5k-tzgDcfqbKnMxFCFvX6gCNrw2M1WGoH2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=b8395873#%F0%9F%87%A9%F0%9F%87%AA+reality+mci++shatel
 
 vless://B1E1E093-A771-43FD-BE3B-F76C82562231@185.33.24.53:443?security=reality&encryption=none&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kino.pub&sid=f8c6e9b40a9c6f26#reality+%F0%9F%87%B9%F0%9F%87%B7+%E2%99%BB%EF%B8%8F+17+%D8%A7%D8%B1%D8%AF%DB%8C%D8%A8%D9%87%D8%B4%D8%AA+%E2%99%BB%EF%B8%8F
 
@@ -12,18 +12,25 @@ vless://B1E1E093-A771-43FD-BE3B-F76C82562231@95.174.68.8:443?security=reality&en
 
 vless://B1E1E093-A771-43FD-BE3B-F76C82562231@185.140.12.165:443?security=reality&encryption=none&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kino.pub&sid=f8c6e9b40a9c6f26#reality+%F0%9F%87%A9%F0%9F%87%AA+%E2%99%BB%EF%B8%8F+17+%D8%A7%D8%B1%D8%AF%DB%8C%D8%A8%D9%87%D8%B4%D8%AA+%E2%99%BB%EF%B8%8F
 
-trojan://dd450244-b90d-42ea-b67a-63bfbba0249e@[::ffff:b98f:ea78]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=cv.salamsasuage.ml&fp=chrome&type=ws&sni=snappfood.ir#%F0%9F%87%B1%F0%9F%87%B9+All+network+1
+vless://2e471545-ea1d-44bf-ed43-ca032c40cd7d@49.13.14.10:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNBIGBANG @VPNBIGBANG @VPNBIGBANG&sni=vpnbigbang.loveirani.top#MTN
 
-trojan://4628dcaa-220c-4ad2-8a28-a72464fe77bb@[::ffff:b98f:e951]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=as.oppc.ir&fp=edge&type=ws&sni=snapp.ir#%F0%9F%87%B1%F0%9F%87%B9+All+network+2
+vless://2e471545-ea1d-44bf-ed43-ca032c40cd7d@VPNBIGBANG_.sector.ga:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNBIGBANG @VPNBIGBANG @VPNBIGBANG&sni=vpnbigbang.loveirani.top#MCI
 
-trojan://3ba4b0bd-c161-4b84-9b84-c1f4fad99207@[::ffff:b98f:e96f]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=gerf.oppc.ir&fp=firefox&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+All+network+3
+trojan://dd450244-b90d-42ea-b67a-63bfbba0249e@[::ffff:b98f:ea78]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=cv.salamsasuage.ml&fp=chrome&type=ws&sni=snappfood.ir#%F0%9F%87%B1%F0%9F%87%B9+network+1
 
-trojan://dc4c0066-b716-4c92-ad16-6005038a0453@[::ffff:b98f:e9e1]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=usy.salamsasuage.ml&fp=edge&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+All+network+4
+trojan://4628dcaa-220c-4ad2-8a28-a72464fe77bb@[::ffff:b98f:e951]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=as.oppc.ir&fp=edge&type=ws&sni=snapp.ir#%F0%9F%87%B1%F0%9F%87%B9+network+2
+
+trojan://3ba4b0bd-c161-4b84-9b84-c1f4fad99207@[::ffff:b98f:e96f]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=gerf.oppc.ir&fp=firefox&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+network+3
+
+trojan://dc4c0066-b716-4c92-ad16-6005038a0453@[::ffff:b98f:e9e1]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=usy.salamsasuage.ml&fp=edge&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+network+4
+
+trojan://cdb99002-b1e6-4b80-bc2d-05c3ead0bbd3@support.cloudflare.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=uf.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=uf.learnrussiabefarsi.cf#ws
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.24.208.25:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=fancy-sun-09db.j-b.workers.dev&fp=chrome&type=ws&sni=fancy-sun-09db.j-b.workers.dev#worker+1
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@[::ffff:6812:03a1]:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=calm-bread-e9d6.j-bagheri75.workers.dev&fp=edge&type=ws&sni=calm-bread-e9d6.j-bagheri75.workers.dev#worker+2
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@[::ffff:6812:02ba]:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=royal-snow-5f8c.j-bagheri1234631.workers.dev&fp=safari&type=ws&sni=royal-snow-5f8c.j-bagheri1234631.workers.dev#worker+3
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@[::ffff:6812:02ba]:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=royal-snow-5f8c.j-bagheri1234631.workers.dev&fp=android&type=ws&sni=royal-snow-5f8c.j-bagheri1234631.workers.dev#worker+3
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@dbn.ircf.space%d8%8cmci.ircf.space%d8%8cmtn.ircf.space%d8%8cmkh.ircf.space%d8%8csht.ircf.space%d8%8cast.ircf.space%d8%8crtl.ircf.space:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=still-hill-815a.m-j-jordan.workers.dev&fp=ios&type=ws&sni=still-hill-815a.m-j-jordan.workers.dev#worker+4
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@dbn.ircf.xn--spacemci-kpk.ircf.xn--spacemtn-kpk.ircf.xn--spacemkh-kpk.ircf.xn--spacesht-kpk.ircf.xn--spaceast-kpk.ircf.xn--spacertl-kpk.ircf.space:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=still-hill-815a.m-j-jordan.workers.dev&fp=chrome&type=ws&sni=still-hill-815a.m-j-jordan.workers.dev#worker+4
+
