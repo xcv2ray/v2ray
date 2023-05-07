@@ -1,5 +1,7 @@
 trojan://1a3efd21-b811-45dd-a648-93925467031e@chat.openai.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=ui.learnrussiabefarsi.cf&fp=firefox&type=ws&sni=ui.learnrussiabefarsi.cf#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87+%D8%A7%D8%B2+reality+%D8%A8%D9%87+%D9%86%D8%B3%D8%AE%D9%87+%D8%A8%D8%AA%D8%A7+1.8.4+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%DA%A9%D9%86%DB%8C%D8%AF
 
+vless://0a10fb0b-8699-40f3-a1df-6abe034e6459@49.13.6.89:556?mode=multi&security=reality&encryption=none&pbk=Oi6Ya5YLhyNXdTyGj24W9gnPswusZ2XEWc8n--_cMQU&fp=randomized&type=grpc&serviceName=@LegenderY_Servers -&sni=eset.com&sid=87cddfb6#Reality+%F0%9F%87%A9%F0%9F%87%AA
+
 vless://acdd2a30-02ce-4f06-ff6c-a9b8351c9be7@irancell.tel-parsashonam.website:21646?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=03#%F0%9F%87%A9%F0%9F%87%AA+reality+irancell+rightel
 
 vless://F851B674-E8E0-4A7F-B90C-1F5FCF3D258C@[::ffff:5fae:4408]:443?security=reality&encryption=none&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kino.pub&sid=f8c6e9b40a9c6f26#reality+%F0%9F%87%A6%F0%9F%87%AA+%E2%99%BB%EF%B8%8F+19+%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%87%D8%B4%D8%AA+%E2%99%BB%EF%B8%8F
@@ -16,15 +18,7 @@ vless://2e471545-ea1d-44bf-ed43-ca032c40cd7d@49.13.14.10:2087?mode=gun&security=
 
 vmess://eyJhZGQiOiI6OmZmZmY6Yjk4ZjplYTdhIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InZiLm9wcGMuaXIiLCJpZCI6IjYyMDY0MzgxLWU3NzctNDgxOC1iNmUzLThlMDFkZDQyZDhmNSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Xwn4exIHdpZmkiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6InNuYXBwZm9vZC5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-trojan://bb8595d3-25f9-4378-8500-64910472cd7e@104.24.195.251:443?mode=multi&security=tls&alpn=http/1.1&fp=randomized&type=grpc&serviceName=Yvn8Er7lay4wGv9tByU&sni=au1.mrvpn.de#Auto+IP%F0%9F%93%B6
-
 vless://bb8595d3-25f9-4378-8500-64910472cd7e@170.114.46.36:443?path=%2FDny7S1rd1aptDwyLwEUUa&security=tls&encryption=none&alpn=h2&host=wk1.mrvpn.de&fp=randomized&type=ws&sni=wk1.mrvpn.de#VPN
-
-trojan://3435b55e-9ed9-4635-9cc3-16ec737b8f40@snapp.ir:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=cvs.salamsasuage.ml&fp=firefox&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+network+1
-
-trojan://3ba4b0bd-c161-4b84-9b84-c1f4fad99207@[::ffff:b98f:e96f]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=gerf.oppc.ir&fp=firefox&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+network+2
-
-trojan://dc4c0066-b716-4c92-ad16-6005038a0453@[::ffff:b98f:e9e1]:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=usy.salamsasuage.ml&fp=edge&type=ws&sni=snappfood.ir#%F0%9F%87%BA%F0%9F%87%B8+network+3
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.24.208.25:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=fancy-sun-09db.j-b.workers.dev&fp=chrome&type=ws&sni=fancy-sun-09db.j-b.workers.dev#worker+1
 
