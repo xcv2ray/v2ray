@@ -1,6 +1,6 @@
 vless://0a10fb0b-8699-40f3-a1df-6abe034e6459@49.13.6.89:556?mode=multi&security=reality&encryption=none&pbk=Oi6Ya5YLhyNXdTyGj24W9gnPswusZ2XEWc8n--_cMQU&fp=randomized&type=grpc&serviceName=@LegenderY_Servers -&sni=eset.com&sid=87cddfb6#Reality+%F0%9F%87%A9%F0%9F%87%AA
 
-vless://acdd2a30-02ce-4f06-ff6c-a9b8351c9be7@irancell.tel-parsashonam.website:21646?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=03#%F0%9F%87%A9%F0%9F%87%AA+reality+irancell+rightel
+vless://587c5dd0-f9fb-4265-cd01-441dedf1fdf3@irancell.tel-parsashonam.website:46045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com#%F0%9F%87%A9%F0%9F%87%AA+reality+irancell+rightel
 
 vless://76B6E80C-C65E-47E5-96B7-65F46C16AB6B@185.140.12.165:443?security=reality&encryption=none&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=kino.pub&sid=f8c6e9b40a9c6f26#reality+%F0%9F%87%A9%F0%9F%87%AA+%E2%99%BB%EF%B8%8F+21+%D8%A7%D8%B1%D8%AF%DB%8C%D8%A8%D9%87%D8%B4%D8%AA+%E2%99%BB%EF%B8%8F
 
@@ -10,13 +10,9 @@ vless://76B6E80C-C65E-47E5-96B7-65F46C16AB6B@185.33.24.53:443?security=reality&e
 
 vless://76B6E80C-C65E-47E5-96B7-65F46C16AB6B@180.149.45.73:443?security=reality&encryption=none&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=kino.pub&sid=f8c6e9b40a9c6f26#reality+%F0%9F%87%A6%F0%9F%87%BF+%E2%99%BB%EF%B8%8F+21+%D8%A7%D8%B1%D8%AF%DB%8C%D8%A8%D9%87%D8%B4%D8%AA+%E2%99%BB%EF%B8%8F
 
-vless://56df6cba-2e6c-4a5f-b43a-5eaaa76a5584@www.ghoran.shop:37629?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#test+1+reality
+trojan://62064381-e777-4818-b6e3-8e01dd42d8f5@[::ffff:b98f:ea7a]:443?path=%2Ftrojan&security=tls&alpn=h2,http/1.1&host=vb.oppc.ir&fp=chrome&type=ws&sni=snappfood.ir#%F0%9F%87%B5%F0%9F%87%B1+wifi
 
 vless://2e471545-ea1d-44bf-ed43-ca032c40cd7d@49.13.14.10:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNBIGBANG @VPNBIGBANG @VPNBIGBANG&sni=vpnbigbang.loveirani.top#MTN
-
-vmess://eyJhZGQiOiI6OmZmZmY6Yjk4ZjplYTdhIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InZiLm9wcGMuaXIiLCJpZCI6IjYyMDY0MzgxLWU3NzctNDgxOC1iNmUzLThlMDFkZDQyZDhmNSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Xwn4exIHdpZmkiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6InNuYXBwZm9vZC5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vless://bb8595d3-25f9-4378-8500-64910472cd7e@170.114.46.36:443?path=%2FDny7S1rd1aptDwyLwEUUa&security=tls&encryption=none&alpn=h2&host=wk1.mrvpn.de&fp=randomized&type=ws&sni=wk1.mrvpn.de#VPN
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.24.208.25:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=fancy-sun-09db.j-b.workers.dev&fp=chrome&type=ws&sni=fancy-sun-09db.j-b.workers.dev#worker+1
 
@@ -25,16 +21,6 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@[::ffff:6812:03a1]:443?path=worker.
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@[::ffff:6812:02ba]:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=royal-snow-5f8c.j-bagheri1234631.workers.dev&fp=android&type=ws&sni=royal-snow-5f8c.j-bagheri1234631.workers.dev#worker+3+mci
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@chat.openai.com:443?path=worker.iraniancp.autos%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=still-hill-815a.m-j-jordan.workers.dev&fp=chrome&type=ws&sni=still-hill-815a.m-j-jordan.workers.dev#worker+4
-
-trojan://0c75a5e0-4af7-4353-a3f7-669c054385cc@lars.ns.cloudflare.com:443?path=%2Fwebsocket&security=tls&alpn=h2,http/1.1&host=an.learnrussiabefarsi.cf&fp=chrome&type=ws&sni=kkh.learnrussiabefarsi.cf#ws
-
-vmess://eyJhZGQiOiI0NS43Ny41NC4yMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImIxLmlyYW5pYW5jcC5hdXRvcyIsImlkIjoiMGM2NjRmNDQtOWY2OS00NTRmLTg0MWEtNDYxNjcxNWRmMjZmIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg4MCIsInBzIjoiSXJhbmlhbiBDeXBoZXJwdW5rcyA4ODgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.autos&type=ws#Iranian+Cypherpunks+8080
-
-vmess://eyJhZGQiOiJzdXBwb3J0LmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMy5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjQ0YzQ2N2E5LThmMGQtNDFhNS1mMDBiLTg2NTY5NzUzZTViMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJJcmFuaWFuIEN5cGhlcnB1bmtzIDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b4.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+8443
 
 vmess://eyJhZGQiOiIxMDQuMjQuMjA4LjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiNS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjIwNTMiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgMjA1MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJpcmFuaWFuY3AuYXV0b3MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
