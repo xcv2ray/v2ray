@@ -6,4 +6,8 @@ vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443?security=reality&en
 
 vless://ce46a621-a0ff-4816-f38a-c023e22f34bc@91.107.133.124:443?security=reality&encryption=none&pbk=DfuW50QGMg_7_GAcfV2W2pRrf_0zCn4d8SDWimQqkDE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d4dd377e#Reality2
 
-vless://6ed9c23a-f608-4da2-b710-2bb8f5754f1a@mci.tel-parsashonam.website:43503?security=reality&encryption=none&pbk=QPKhxBNfx8ju84Ds2CMn9z-1aE3bzPIHudgAjT1IHyU&headerType=none&fp=firefox&type=tcp&sni=discord.com&sid=ec8ee4ef#%F0%9F%87%A9%F0%9F%87%AA+mci
+vless://bbc6e7df-43fd-4278-c94b-42e86125d35b@mci.tel-parsashonam.website:29674?security=reality&encryption=none&pbk=QPKhxBNfx8ju84Ds2CMn9z-1aE3bzPIHudgAjT1IHyU&headerType=none&fp=firefox&type=tcp&sni=discord.com&sid=ec8ee4ef#%F0%9F%87%A9%F0%9F%87%AA+mci
+
+vless://1e0a2dab-0d76-468a-cb7b-631d22c5db26@irancell.tel-parsashonam.website:21879?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+mtn
+
+vmess://eyJhZGQiOiJkYm4uaXJjZi5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ5dGMubGVhcm5ydXNzaWFiZWZhcnNpLmNmIiwiaWQiOiIwMjc5Y2JhMy1kOGVkLTRhYmMtODk5NC1kM2ViZDI1NDhkOTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJzc2hvY2Vhbi1oZnR5ZHJ0Iiwic2N5IjoiYXV0byIsInNuaSI6InN0ci5sZWFybnJ1c3NpYWJlZmFyc2kuY2YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
