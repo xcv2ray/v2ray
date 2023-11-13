@@ -1,2 +1,2 @@
-vless://c56a39ae-dbb3-461f-e197-c9d159ebab8d@dos.oppc.ir:8080?path=%2Fdivar&security=reality&encryption=none&pbk=6ZcSY5LLRH9VPZqeofLzvRY_lg5dvZYXGSxXr_yKehc&host=divar.ir&fp=chrome&spx=%2F&type=http&sni=microsoft.com&sid=f11dab#test
 vless://5d44521f-0341-4114-aae8-a1ff2b088c18@217.144.98.199:443?path=%2F&security=reality&encryption=none&pbk=jJq0GqtcRcrliuUna0i4k3oyGQDp3tkNK3g1Plw9MEc&fp=chrome&spx=%2F&type=http&sni=staging.philharmonie-konstanz.de&sid=16ec25254008#new%E2%9B%94+29+aban
+vless://c56a39ae-dbb3-461f-e197-c9d159ebab8d@dos.oppc.ir:8080?mode=gun&security=reality&encryption=none&pbk=6ZcSY5LLRH9VPZqeofLzvRY_lg5dvZYXGSxXr_yKehc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=microsoft.com&sid=f11dab#test-vz218hhlr
