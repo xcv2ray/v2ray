@@ -5,3 +5,156 @@ vless://1fad0af5-4dcf-426c-bce7-5f416b29d96e@Bpb.J-bAgHEri1234631.wOrKerS.dev:44
 vless://d442d11e-d424-4583-b36e-524ab1f0afa4@revanced.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=worker-plain-wood-a34d.j-bagheri75.workers.dev&fp=firefox&type=ws&sni=worker-plain-wood-a34d.j-bagheri75.workers.dev#3%EF%B8%8F%E2%83%A3+%D9%85%D8%AD%D8%AF%D9%88%DB%8C%D8%AA+10+%DA%AF%DB%8C%DA%AF+%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%2F%D8%A2%DB%8C+%D9%BE%DB%8C+%D8%B1%D9%86%D8%AF%D9%88%D9%85%F0%9F%8C%8E
 wireguard://OGEgdpqrNJMaOPlBA4qVmQOgJchD7bPLrbFC2gnKn08%3D@188.114.96.172:1002?address=172.16.0.2%2F32&reserved=110%2C49%2C197&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#1%EF%B8%8F%E2%83%A3+%D8%A7%D8%AC%D8%B1%D8%A7+%D9%81%D9%82%D8%B7+%D8%AF%D8%B1+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%B3%D8%AE%D9%87+github%7C+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%D9%88+%D8%AD%D8%AC%D9%85+%D9%86%D8%A7%D9%85%D8%B4%D8%AE%D8%B5%2F%D8%A2%DB%8C+%D9%BE%DB%8C+%D8%A7%D8%B2+%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%AE%F0%9F%87%B7
 wireguard://0GAvApYLLQIwf6epbVCbUCX%2FJmNdGNVhu0mGLscq%2Fls%3D@162.159.192.208:1074?address=172.16.0.2%2F32&reserved=149%2C112%2C247&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#2%EF%B8%8F%E2%83%A3+%D8%A7%D8%AC%D8%B1%D8%A7+%D9%81%D9%82%D8%B7+%D8%AF%D8%B1+%D8%A2%D8%AE%D8%B1%DB%8C%D9%86+%D9%86%D8%B3%D8%AE%D9%87+github%7C+%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE+%D9%88+%D8%AD%D8%AC%D9%85+%D9%86%D8%A7%D9%85%D8%B4%D8%AE%D8%B5%2F%D8%A2%DB%8C+%D9%BE%DB%8C+%D8%A7%D8%B2+%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%AE%F0%9F%87%B7
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "zula.ir",
+            "port": 2087,
+            "users": [
+              {
+                "id": "f60c8019-c947-4d93-8df9-9aca3f775781",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "TET.oppC.iR",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "chrome",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/vmess",
+          "headers": {
+            "Host": "TET.oppC.iR"
+          }
+        },
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "mark": 255,
+          "tcpNoDelay": true
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "tlshello",
+          "length": "10-20",
+          "interval": "10-20"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpNoDelay": true,
+          "tcpKeepAliveIdle": 100
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "5627785659655799759",
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
+  }
+}
